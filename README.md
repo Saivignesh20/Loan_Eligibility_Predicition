@@ -22,6 +22,17 @@ Dream Housing Finance company specializes in providing all types of loans across
    
 6. **Loan Amounts**: Loans of $5000-$10000 are most common, followed by $300-$5000 loans. A significant group borrows over $15000. 💸💼
 
+
+## Streamlit App
+   ### Page 1
+   ![Screenshot 2024-04-05 171053](https://github.com/Akshat8303/Loan_Eligibility_Predicition/assets/132274442/c8defaa9-25f6-42ab-ba25-c21d12b66f80)
+   ![Screenshot 2024-04-05 171126](https://github.com/Akshat8303/Loan_Eligibility_Predicition/assets/132274442/e945d1ed-c3df-4f41-a09d-6b975284c459)
+
+   ### Page 2
+   ![Screenshot 2024-04-05 171200](https://github.com/Akshat8303/Loan_Eligibility_Predicition/assets/132274442/9fc43f3c-5148-4f5e-b359-9fb6e8223352)
+
+
+
 ## GitHub Repository
 
 The complete project including Exploratory Data Analysis (EDA), model building, and a Streamlit application.
