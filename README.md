@@ -1,4 +1,4 @@
-# Loan Eligibility Prediction Project 📊💸
+# Loan Eligibility Prediction  📊💸
 
 ## Introduction
 
